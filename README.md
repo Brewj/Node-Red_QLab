@@ -21,7 +21,7 @@ The Qlab files are included, along with a videos showing it in action.
 ## The Project
 <img src="https://github.com/Brewj/Node-Red_QLab/blob/master/2020-04-03%2008.11.58.jpg" alt="picutre"></p>
 
-## The Main Flow
+## The Main Flow - The LED's are just at the end of the triggers for some other testing!
 <img src="https://github.com/Brewj/Node-Red_QLab/blob/master/Screenshot%202020-04-28%20at%2014.52.02.png" alt="main_flow"></p>
 
 ## The Stats Flow
